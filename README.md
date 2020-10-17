@@ -1,2 +1,3 @@
 # Geek_University-ML_classic
-Machine learning (classical)
+
+Machine learning (classic) final projects in Geek University
