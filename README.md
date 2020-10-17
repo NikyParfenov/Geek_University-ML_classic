@@ -1,2 +1,2 @@
-# Geek_University-ML
+# Geek_University-ML_classical
 Machine learning (classical)
